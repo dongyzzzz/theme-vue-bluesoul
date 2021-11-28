@@ -24,7 +24,6 @@ module.exports = {
   },
   devServer: {
     // 环境配置
-    host: "localhost",
     port: 8000,
     https: false,
     hotOnly: false,
